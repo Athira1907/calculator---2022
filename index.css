@@ -1,0 +1,26 @@
+body{
+    padding: 0px;
+    margin:200px;
+    text-align: center;
+  background-image:url(https://images.unsplash.com/photo-1590418606746-018840f9cd0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMG5pZ2h0JTIwc2t5fGVufDB8fDB8fA%3D%3D&w=1000&q=80) ;
+  background-size: cover;
+  }
+  .btn{
+    font-size: 25px;
+    text-align: center;
+    width: 70px;
+    height: 50px;
+    border-radius: 20px;
+    margin: 10px;
+   cursor: pointer;
+    box-shadow: 0.1px 0.1px 0.1px 0.1px;
+  }
+  
+  .display{
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 30px;
+    text-align: center;
+  }
+  
